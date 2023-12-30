@@ -9,7 +9,7 @@ def hello_world():
 <html>
 <body>
 <center>
-<h1>You are so intelligenttttttttt</h1> <br>
+<h1>You are so intelligentttttttttt</h1> <br>
 <br>
 <img src="https://github.com/kamnigs1993/argo-cd/blob/main/itsworking.jpeg?raw=true">
 </center>
